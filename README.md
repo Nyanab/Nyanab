@@ -5,4 +5,4 @@
 - 🍵I'm a student based in Indonesia
 - :octocat:I can do Python/JavaScript/Arduino/EV3-NXT/Data Science
 - 🔭I'm Currently working on ... Hacktoberfest2022
-- 🔎Find me in another way
+- 🔎Find me in another way! [github](https://github.com/Nyanab)
