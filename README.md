@@ -1,5 +1,8 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=nyanab&show_icons=true&theme=onedark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nyanab&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)
-### Hi there 👋
+# Hello!
 
-- 🔭 I’m currently working on ...
+### My Profile
+- 🐾You can call me nab
+- 🍵I'm a student based in Indonesia
+- :octocat:I can do Python/JavaScript/Arduino/EV3-NXT/Data Science
+- 🔭I'm Currently working on ... Hacktoberfest2022
+- 🔎Find me in another way
